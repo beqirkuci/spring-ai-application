@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 28 14:56:43 CEST 2024
+3ce416bd343d79054b141727ae07bfc3238e0fb6@default-central-http\://nexus.contship.net/repository/maven-public/.lastUpdated=1724849803767
+http\://nexus.contship.net/repository/maven-public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:3.0.0 from/to central (http\://nexus.contship.net/repository/maven-public/)\: nexus.contship.net\: nodename nor servname provided, or not known
